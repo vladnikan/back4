@@ -33,7 +33,7 @@ def main():
         find_resource(resource, "url")
 
         print("\n8:")
-        print(open_file("nonexistent_file.txt"))
+        print(open_file("read_file.txt"))
         print(calculate_square_root(25))
         print(add_positive(-3, 2))
 
